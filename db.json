@@ -1,0 +1,23 @@
+{
+    "cursos": [{
+        "id":1,
+        "title": "React desde cero",
+        "image": "https://www.365imagenesbonitas.com/wp-content/uploads/2018/03/amor-felices-sue%C3%B1os.jpg",
+        "price": 30,
+        "profesor": "Alan Zurita"
+      },
+      {
+        "id":2,
+        "title": "Php desde cero",
+        "image": "https://www.365imagenesbonitas.com/wp-content/uploads/2018/03/buenas-noches-para-mi-amor.jpg",
+        "price": 40,
+        "profesor": "Alan Zurita"
+      },
+      {
+        "id":3,
+        "title": "Go desde cero",
+        "image": "https://www.365imagenesbonitas.com/wp-content/uploads/2018/03/buenas-noches-para-mi-novio.jpg",
+        "price": 50,
+        "profesor": "Leo Noriega"
+      }]
+}
